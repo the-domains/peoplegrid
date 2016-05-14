@@ -1,0 +1,28 @@
+name: peoplegrid
+favicon: null
+layout_spectrum: 0.8783574618864805
+typography_spectrum: 0.0038911723531782627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.396238571498543
+  lightness: 0.937380813062191
+  saturation: 0.03307104390114546
+  rhythmicContrast: 0.43420363729819655
+purpose: []
