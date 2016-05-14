@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[peoplegrid]]></title>
         <description><![CDATA[peoplegrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peoplegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 02:19:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 12:24:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peoplegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13cc5daf-feb1-4e2c-9c19-b84d01ca4d0d.jpg">]]></description>
+            <link>https://thegrid.ai/peoplegrid/9843a8ae-8033-4475-86ef-f248cd1da1fb/index.html</link>
+            <guid isPermaLink="false">9843a8ae-8033-4475-86ef-f248cd1da1fb</guid>
+            <pubDate>Sat, 14 May 2016 12:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>For me, there's no arguing that organisational performance is linked to employee engagement. As the only "People & Culture" person on our leadership team, I was shocked to learn that not everyone believes this to be true!</p>]]></description>
-            <link>undefinedfor-me-theres-no-arguing-that-organisational-performance-i/index.html</link>
+            <link>https://thegrid.ai/peoplegrid/for-me-theres-no-arguing-that-organisational-performance-i/index.html</link>
             <guid isPermaLink="false">dcee2678-9752-4066-b550-a6329f4b4c91</guid>
             <pubDate>Sat, 14 May 2016 02:19:38 GMT</pubDate>
         </item>
